@@ -36,5 +36,5 @@
 
 <!--底部-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=FEEL%20FREE%20TO%20CONTACT%20WITH%20ME!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=FEEL%20FREE%20TO%20CONTACT%20ME!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
