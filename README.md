@@ -3,6 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Kangpeilun&descAlign=50&descSize=30&descAlignY=60&animation=twinkling"/>
 </p>
 
+I am planning to spend a year abroad for academic purposes in the upcoming year. Currently, I am in the process of identifying an appropriate laboratory or supervisor, but I am finding it challenging to locate the right connections. My research interests are primarily in the fields of 3D reconstruction and computer vision. I would be immensely grateful if anyone could offer some guidance or suggestions in this regard. Should you be willing to assist, please do not hesitate to reach out to me via my personal email: 374774222@qq.com. Thank you in advance for your consideration.
+
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?&color=AFD3FD&font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I'm+studying+for+a+PhD;And+I+am+super+obsessed+with+programming!" />
 </p>
